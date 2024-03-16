@@ -12,7 +12,7 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarColor02">
                     <ul className="navbar-nav me-auto text-center">
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/">Home
+                            <Link className="nav-link active" to="/ai-editor/">Home
                                 <span className="visually-hidden">(current)</span>
                             </Link>
                         </li>
