@@ -12,18 +12,18 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarColor02">
                     <ul className="navbar-nav me-auto text-center">
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/ai-editor/">Home
+                            <Link className="nav-link active" to="ai-editor/">Home
                                 <span className="visually-hidden">(current)</span>
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/chat">Ask AI</Link>
+                            <Link className="nav-link" to="ai-editor/chat">Ask AI</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/docs">documentation</Link>
+                            <Link className="nav-link" to="ai-editor/docs">documentation</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/team">Team</Link>
+                            <Link className="nav-link" to="ai-editor/team">Team</Link>
                         </li>
                        
                     </ul>
